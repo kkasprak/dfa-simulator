@@ -1,0 +1,4 @@
+Build:
+	javac MySimulator.java
+Run:
+	java MySimulator
