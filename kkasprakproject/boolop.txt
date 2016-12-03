@@ -1,0 +1,4 @@
+Build:
+	javac DFAClosureProperties.java
+Run:
+	java DFAClosureProperties
